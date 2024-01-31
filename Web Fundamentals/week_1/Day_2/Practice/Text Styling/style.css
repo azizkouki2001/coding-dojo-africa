@@ -1,0 +1,28 @@
+ body {
+    background-color: rgb(246, 242, 242);
+  }
+  h1 {
+    color: aqua;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    background-color: black;
+    padding-left: 10px;
+  }
+  span {
+    color: white;
+  }
+
+
+  h2{
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+
+  }
+  h3{
+    background-color: aqua;
+    color: black;
+    
+    text-decoration: underline ;
+    text-align: end;
+  }
