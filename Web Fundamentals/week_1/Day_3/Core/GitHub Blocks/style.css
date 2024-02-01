@@ -1,0 +1,44 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    width: 50%;
+}
+
+.container{
+    background-color: #F8F8FF;
+    padding: 10px;
+    height: 400px;
+    
+}
+.container, h1{
+    text-align: center;
+
+}
+
+.first{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #90C8FF;
+    padding: 15px;
+}
+.images{
+    width: 120px;
+    height: 120px;
+}
+
+.two{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    background-color: #C9A5B5;
+    padding: 15px;
+}
+
+.three{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 15px;
+}
