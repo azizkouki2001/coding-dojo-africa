@@ -1,0 +1,19 @@
+.bar{
+    background-color: black;
+    color: white;
+    display: flex;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+h1{
+    padding-left: 20px;
+}
+
+.secondbar{
+    display: flex;
+    justify-content: center;
+}
+
+
+
